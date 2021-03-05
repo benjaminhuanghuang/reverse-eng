@@ -1,0 +1,14 @@
+
+
+## 
+
+
+
+##
+OpenProcess()
+
+ReadProcessMemory()
+
+WriteProcessMenory()
+
+
