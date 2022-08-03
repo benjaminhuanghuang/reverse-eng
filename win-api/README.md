@@ -9,6 +9,6 @@ OpenProcess()
 
 ReadProcessMemory()
 
-WriteProcessMenory()
+WriteProcessMemory()
 
 
